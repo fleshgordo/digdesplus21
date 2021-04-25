@@ -1,15 +1,15 @@
 # Grids
-Bislang hatten wir die Positionierung der einzelnen Block-Elemente mit __float__ kontrolliert. Für aufwändigere Layouts welche sich auf unterschiedlichen Screensizes ausrichten müssen, ist die Arbeit mit __float__ eher [mühsam](https://imgur.com/gallery/Q3cUg29). Anfangs musste man Tabellen, dann Floats, Inline-Block usw. verwenden, aber alle diese Methoden waren im Wesentlichen Hacks und Funktionen wie z.B. vertikale Zentrierung waren äusserst aufwendig. 
+Bislang hatten wir die Positionierung der einzelnen Block-Elemente mit __float__ kontrolliert. Für aufwändigere Layouts welche sich auf unterschiedlichen Screensizes ausrichten müssen, ist die Arbeit mit __float__ eher [mühsam](https://i.imgur.com/Q3cUg29.gif). Anfangs musste man Tabellen, dann Floats, Inline-Block usw. verwenden, aber alle diese Methoden waren im Wesentlichen Hacks und Funktionen wie z.B. vertikale Zentrierung waren äusserst aufwendig. 
 
 [Grid CSS](https://www.w3schools.com/css/css_grid.asp) ist ein zweidimensionales Raster-System, d.h. es kann sowohl Spalten als auch Zeilen verarbeiten, im Gegensatz zu [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp), welches weitgehend für eindimensionale Layouts verwendet werden -> sprich für einzeilige horizontale oder vertikale Layouts. 
 
 Man kann die Eigenschaft __display: grid__ auf ein Container Element anwenden, wie z. B.
 
-Hier findet ihr das [Starter-File](https://gist.github.com/caocaostudio/2ae505fb174b7f4c6164938378d1c521).
+Hier findet ihr das [Starter-File](https://gist.github.com/fleshgordo/dea794faad8fd8c5b2849f1911ad9b84).
 
 ```html
 <div class="container">
-	<div class="item">1</div>
+	  <div class="item">1</div>
     <div class="item">2</div>
     <div class="item">3</div>
     <div class="item">4</div>
