@@ -1,6 +1,6 @@
 # Digital Design Plus
 
-Handbuch und Referenz zu Übungsbeispielen zum Digital Design Plus Kurs an der HSLU Luzern im Bachelor Digital Ideation (April - Juni 2021).
+Handbuch und Referenz zu Übungsbeispielen zum Digital Design Plus Kurs an der HSLU Luzern im Bachelor Digital Ideation.
 
 ![CSS vertical](http://i.imgur.com/ajiIIq3.png)
 
