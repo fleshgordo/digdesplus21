@@ -9,7 +9,7 @@ Hier findet ihr das [Starter-File](https://gist.github.com/fleshgordo/dea794faad
 
 ```html
 <div class="container">
-	  <div class="item">1</div>
+    <div class="item">1</div>
     <div class="item">2</div>
     <div class="item">3</div>
     <div class="item">4</div>
